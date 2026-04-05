@@ -20,7 +20,7 @@ I build data-driven solutions with a focus on machine learning, analytics, and r
 **Data & ML:** Numpy, Pandas, Scikit-learn, TensorFlow, PySpark, PyTorch, Keras    
 **Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Plotly  
 **Machine Learning:** Regression, Classification, Clustering, Time Series Forecasting  
-**AI & Advanced Topics:** Generative AI, NLP, Computer Vision, LLM Applications
+**AI & Advanced Topics:** Generative AI, NLP, Computer Vision, LLM Applications   
 **Analytics & Marketing:** Predictive Analytics, Churn Prediction, Customer Segmentation, Market Basket & Share Analysis, Price Elasticity
 
 ## Currently Exploring
